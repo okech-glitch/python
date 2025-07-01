@@ -1,0 +1,13 @@
+PatientNo,FirstName,LastName,Age(Years),Weight(Kgs),Height(Meters)
+KNH009,Joseph,Mwaura,22,72,5
+KNH876,Millicent,Anyango,34,65,6
+KNH543,Ezra,Ochieng,54,58,5
+MAT324,Walter,Odhiambo,34,56,4.5
+AGH546,Daniel,Makhulo,32,47,5.4
+DAT321,Grace,Naisho,28,83,6.2
+END453,Vincents,Rioka,43,66,5.7
+KNH877,Alice,Moraa,21,71,4.8
+KNH544,Patricia,Mwende,25,60,5.6
+MAT334,Elizabeth,Wambui,47,57,5.8
+DAT402,Fidelis,Kyalo,19,53,6.1
+END765,Dorcas,Njeri,26,51,4.7
