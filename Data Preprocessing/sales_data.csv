@@ -1,0 +1,10 @@
+Date,VehicleModel,SalesAmount,PurchaseFrequency,DiscountApplied
+23-01-01,Toyota Camry,2500000,2,0.1
+1/5/2023,Toyota Corolla,2000000,1,0.05
+1/10/2023,Honda Civic,2200000,3,0.2
+2/2/2023,Toyota Camry,2600000,2,0.1
+2/5/2023,Ford Mustang,3500000,1,0.15
+2/15/2023,Toyota Corolla,2100000,1,0.05
+3/3/2023,Honda Civic,2300000,2,0.1
+3/8/2023,Toyota Camry,2700000,3,0.2
+3/20/2023,Ford Mustang,3600000,1,0.15
