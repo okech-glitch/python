@@ -1,0 +1,8 @@
+Region,ProductID,Product,Month,Sales
+Central,101,TV,February,32000
+Western,102,Laptop,January,80000
+Central,104,Fridge,April,65000
+Coast,104,Fridge,March,35000
+Eastern,103,Printer,April,14500
+Western,101,TV,March,55000
+Coast,102,Laptop,January,56000
